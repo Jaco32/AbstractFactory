@@ -1,8 +1,8 @@
 //============================================================================
 // Name        : AbstractFactory.cpp
-// Author      : Jacek Wêgorkiewicz
-// Description : Implementacja przyk³adu fabryki abstrakcyjnej dla portalu
-//               www.algorytmy.org
+// Author      : Jacek WÄ™gorkiewicz
+// Description : Implementacja przykÅ‚adu fabryki abstrakcyjnej dla portalu
+//               www.algorytm.org
 //============================================================================
 
 #include <iostream>
